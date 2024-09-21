@@ -17,6 +17,7 @@ The project will be developed using the following technologies:
 
 ## Installation
  Clone the repository to your local machine.
+ 
 **Install the required dependencies using pip**.
 
 ## Usage
@@ -24,7 +25,7 @@ The project will be developed using the following technologies:
 - Enter your health and lifestyle information into the provided fields.
 - Click the **"Predict"** button to receive your personalized heart disease risk assessment.
 - Review the recommendations for heart disease prevention.
-- 
+  
 ## Contributing
 We welcome contributions to this project. Please feel free to fork the repository, make changes, and submit pull requests.
 

@@ -21,7 +21,7 @@ The project will be developed using the following technologies:
 **Install the required dependencies using pip**.
 
 ## Usage
-- Access the app in your web browser by navigating to http://localhost:8080: http://localhost:8080
+- Access the app in your web browser by navigating to **http://localhost:8080: http://localhost:8080**
 - Enter your health and lifestyle information into the provided fields.
 - Click the **"Predict"** button to receive your personalized heart disease risk assessment.
 - Review the recommendations for heart disease prevention.

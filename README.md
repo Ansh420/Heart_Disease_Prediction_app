@@ -1,7 +1,7 @@
 # Heart_Disease_Prediction_app
 This project aims to develop a **web application** that utilizes machine learning algorithms to predict the likelihood of an individual developing heart disease. The app will gather user-provided information about their health and lifestyle factors and employ a trained machine learning model to assess their risk of heart disease. The app will provide users with personalized insights and recommendations to help them manage their heart health and reduce their risk of heart disease.
 
-## Features
+## Features 
 - User-friendly interface for easy data input and result interpretation.
 - Machine learning-powered prediction using trained models.
 - Personalized risk assessment based on individual health factors.

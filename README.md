@@ -8,7 +8,7 @@ This project aims to develop a **web application** that utilizes machine learnin
 - Recommendations for heart disease prevention.
 
 ## Technologies
-The project will be developed using the following technologies:
+The project will be developed using the following technologies: 
 
 - Python for back-end development.  
 - Streamlit for front-end development.

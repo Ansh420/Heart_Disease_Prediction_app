@@ -26,9 +26,5 @@ The project will be developed using the following technologies:
 - Click the **"Predict"** button to receive your personalized heart disease risk assessment.
 - Review the recommendations for heart disease prevention.
   
-## Contributing
-We welcome contributions to this project. Please feel free to fork the repository, make changes, and submit pull requests.
-
-
 ## Disclaimer
 This app is not intended to provide medical advice or diagnosis. Please consult with a healthcare professional for any concerns about your heart health.

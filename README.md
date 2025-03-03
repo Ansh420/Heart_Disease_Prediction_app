@@ -11,7 +11,7 @@ This project aims to develop a **web application** that utilizes machine learnin
 The project will be developed using the following technologies: 
 
 - Python for back-end development.  
-- Streamlit for front-end development.
+- Streamlit for front-end development. 
 - Machine learning libraries such as scikit-learn and TensorFlow.
 - Heart disease dataset from a reputable source.
 

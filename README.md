@@ -4,7 +4,7 @@ This project aims to develop a **web application** that utilizes machine learnin
 ## Features 
 - User-friendly interface for easy data input and result interpretation.
 - Machine learning-powered prediction using trained models.
-- Personalized risk assessment based on individual health factors.
+- Personalized risk assessment based on individual health factors. 
 - Recommendations for heart disease prevention.
 
 ## Technologies
